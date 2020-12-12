@@ -14,9 +14,9 @@ npm start
 npm run electron-pack
 ```
 
-## Electron - main.js
+## Electron - public/electron.js
 
-In main.js we run two windows one is hidden from the user that one is simply starting our server and the other one is for the client to interact.
+In public/electron.js we run two windows one is hidden from the user that one is simply starting our server and the other one is for the client to interact.
 
 ## License
 
