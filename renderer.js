@@ -4,4 +4,4 @@
 // `nodeIntegration` is turned off. Use `preload.js` to
 // selectively enable features needed in the rendering
 // process.
-let server = require('./app.js');
+let server = require('./server.js');
