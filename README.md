@@ -1,6 +1,6 @@
-# Electron-Express-Skeleton
+# Ernir - Express React Node(Express) IR
 
-**Clone and run for a quick way to see Electron and Express together in action.**
+**Clone and run for a quick way to see Electron, React and Express together in action.**
 
 This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
 
