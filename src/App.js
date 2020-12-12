@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { api } from "./Api";
+import { api } from "./api";
 
 const App = () => {
   const [successText, setSuccessText] = useState(null);
