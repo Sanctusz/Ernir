@@ -1,4 +1,4 @@
-# Ernir - Express React Node(Express) IR
+# Ernir - Electron React Node(Express) IR
 
 **Clone and run for a quick way to see Electron, React and Express together in action.**
 
